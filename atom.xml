@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>与你同在</title>
+  
+  <subtitle>展示生活的美好！MY LIFE, MY STYLE.</subtitle>
+  <link href="https://youya.org/atom.xml" rel="self"/>
+  
+  <link href="https://youya.org/"/>
+  <updated>2024-03-13T15:21:10.381Z</updated>
+  <id>https://youya.org/</id>
+  
+  <author>
+    <name>zhiwei</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>中国常见的交易品种和交易市场</title>
+    <link href="https://youya.org/2024/02/03/china-trading-market/"/>
+    <id>https://youya.org/2024/02/03/china-trading-market/</id>
+    <published>2024-02-03T02:32:14.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>在国内大家最常用的投资理财渠道就是在支付宝等平台买基金和在证券账户里买股票了，还有就是在银行存款或买理财产品。除了这些之外，还有很多可以交易的品种和交易场所。</p><span id="more"></span><h2 id="交易品种"><a href="#交易品种" class="headerlink" title="交易品种"></a>交易品种</h2><p>银行存款、银行理财、基金、债券、股票、期货、期权、外汇、信托等。</p><p>银行存款、银行理财就像字面意思那样，就是在银行进行交易，现在通过支付宝等代销机构也能交易银行存款和银行理财。</p><p>基金就比较常见了，基金本身也有很多种类。从交易市场角度，分为场内基金和场外基金；从底层资产角度，常见的有货币基金、债券基金、股票基金、FOF基金、QDII基金等。</p><p>场外基金就是大家通常熟悉的基金，比如在银行、支付宝、基金公司等购买的基金，而银行、支付宝等通常叫作代销机构。</p><p>场内主要是指证券交易市场，其实就是国内的上海证券交易所、深圳证券交易所、北京证券交易所，在这三个交易所购买的基金叫场内基金，场内基金又分EFT和LOF。</p><p>基金有净值和市价，对应着认购、申购、赎回和买、卖。净值就是基金真实的价值，比如基金底层资产是股票，股票涨了基金净值就涨，股票跌了净值就跌；市价是在场内进行买卖的价格，通常与净值相差不大，但有时由于限购等因素影响，净值市价会有所偏差。举个例子说明一下，比如100元的纪念币净值就是100元，但是由于其稀缺性，市场价格即市价可能会高于100元。</p><p>基金刚成立时需要募集资金，这时叫作认购，成立之后就可以进行申购、赎回、买、卖了。场外基金都是按净值进行申购、赎回的；场内基金通常是按市价进行买、卖，但是也能按净值进行申购、赎回，只是大部分场内基金的申购、赎回门槛比较高，100万起步吧。</p><p>再讲一下特殊的LOF基金，全称是Listed Open-ended Fund，即上市型开放式基金。这类基金同时在场外和场内上市，既可以在场外按净值申购、赎回，又可以在场内按市价进行买、卖，还能在场内按净值进行申购、赎回。</p><p>像LOF基金这种在场外、场内都上市的，可能进行转移，即从场外转到场内，或从场内转到场外，这叫作<strong>跨市场转移</strong>。基金也能<strong>市场内转移</strong>，比如把支付宝里的基金转到银行。一般很少有人把场外基金做市场内转移，因为都是按净值交易，所以意义不大；很多人基金有溢价和折价时会做跨市场转移来套利。</p><p>债券有国债、政府债、地方债、城投债、公司债、企业债等，其实就是发行主体不一样。在场内还有可转换债，就是可以把债券转换成股票，通常说的可转债打新就是指这类债。</p><p>通常很少人直接购买债券，一般都是基金公司把债券包装成基金之后对外销售，就是债券基金。</p><p>股票就不细说了。</p><p>期货就是未来的货物，常见的是商品期货，比如花生期货和玉米期货，还有金融期货、天气期货等非物质期货。期货一般都带杠杆属性，主要是给企业降低风险用的，和保险有点类似。</p><p>期权就是一种选择权，你交点钱，和对方约定未来某个时间要以某个价格买一件物品，到时你可以选择买或不买。</p><p>期货和期权都是交易不存在的东西，其实都是泡沫，风险是挺高的，一般人是不交易这些品种的。</p><p>基金、股票、期货、期权都是比较复杂的品种，很难几句话讲清楚，将来有时间了，单独拆开好好讲讲。</p><h2 id="交易市场"><a href="#交易市场" class="headerlink" title="交易市场"></a>交易市场</h2><p>有一级市场和二级市场，咱们平时买卖基金、股票等都属于在二级市场进行交易的。一级市场通常是发行市场，个人很少参与。</p><p>一般大家说的场内、场外的市场就是证券市场，就是交易所，交易所分为证券交易所和期货交易所。</p><p>国内的证券交易所有：上海证券交易所、深圳证券交易所、北京证券交易所。</p><p>国内的期货交易所有：郑州商品交易所、上海期货交易所、大连商品交易所、中国金融期货交易所、上海能源交易所、广州期货交易所。</p><p>证券账户，又叫股票账户指的是证券交易所的账户，期货账户是期货交易所的账户。</p><p>证券账户用来交易ETF基金、股票、股票期权、ETF期权。</p><p>期货账户用来交易商品期货、商品期权、指数期货、指数期权等。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;在国内大家最常用的投资理财渠道就是在支付宝等平台买基金和在证券账户里买股票了，还有就是在银行存款或买理财产品。除了这些之外，还有很多可以交易的品种和交易场所。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Stock" scheme="https://youya.org/tags/stock/"/>
+    
+    <category term="Fund" scheme="https://youya.org/tags/fund/"/>
+    
+    <category term="Option" scheme="https://youya.org/tags/option/"/>
+    
+    <category term="Futures" scheme="https://youya.org/tags/futures/"/>
+    
+    <category term="Bond" scheme="https://youya.org/tags/bond/"/>
+    
+    <category term="Trust" scheme="https://youya.org/tags/trust/"/>
+    
+    <category term="FX" scheme="https://youya.org/tags/fx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>盈透证券港美股佣金</title>
+    <link href="https://youya.org/2024/01/14/ibkr-commissions/"/>
+    <id>https://youya.org/2024/01/14/ibkr-commissions/</id>
+    <published>2024-01-14T05:42:10.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽然股票投资最重要的是低买高卖，但是佣金通常也是大家所考虑的一方面，只要不是高的离谱就行。</p><p><strong>盈透开户优惠：</strong> <a href="https://blog.youya.org/brokers/" target="_blank" rel="noopener external nofollow noreferrer">https://blog.youya.org/brokers/</a></p><span id="more"></span><h2 id="佣金说明"><a href="#佣金说明" class="headerlink" title="佣金说明"></a>佣金说明</h2><p>有些美股券商虽然是零佣交易，但是很多时候是靠卖订单流盈利的，成交价往往不是最佳买卖价（BBO, Best Bid Offer）。美股市场不同于港股市场，在港股市场，订单只能提交给港交所，由其来撮合交易；而美股是跨市场交易，你的纽交所股票订单可以提交给其他交易所或高频交易商，由他们撮合交易，这样就带来了套利空间。</p><p>举个例子简单说明一下：</p><blockquote><p>假如当前买一价是 16.40，卖一价是 16.60，你的挂单 16.50 买入，这时正好有人挂 16.45 卖出，那么最佳成交价就可能是 16.48，这样你买入便宜了 0.02，对方卖出贵了 0.03，双赢。如果券商把订单流卖给高频交易商，那么他们就会把这个差价吃掉，即先以 16.48 买入再以 16.50 卖出，吃掉你单子 0.02 的差价。</p></blockquote><h2 id="盈透佣金"><a href="#盈透佣金" class="headerlink" title="盈透佣金"></a>盈透佣金</h2><p>盈透证券虽然不免佣，但是会让你订单以<a href="https://xueqiu.com/4586203773/136216057" target="_blank" rel="noopener external nofollow noreferrer">最佳买卖价成交</a>，无形之中为你节省了成本。美股期权交易增加市场流动性还会有<a href="https://xueqiu.com/4586203773/136150556" target="_blank" rel="noopener external nofollow noreferrer">交易所返佣</a>，你的单子最终可能会是负佣金。另外就是还有些ETF是免佣的，部分ETF需要持有30天才能免佣。</p><p>盈透证券佣金有两种方案：<strong>阶梯式</strong>和<strong>固定式</strong>，简单总结就是<strong>小散户选择阶梯式佣金方案</strong>即可，港股交易建议使用其他港股券商。</p><h3 id="盈透美股股票佣金"><a href="#盈透美股股票佣金" class="headerlink" title="盈透美股股票佣金"></a>盈透美股股票佣金</h3><p><strong>固定式</strong>：每股0.005美元，最低收费1美元，200股以内都是1美元。</p><p><strong>阶梯式</strong>：每股0.0035美元，最低收费0.35美元，100股以内都是0.35美元。</p><p>详细的参考：<a href="https://www.ibkr.com/cn/pricing/commissions-stocks.php?re=amer" target="_blank" rel="noopener external nofollow noreferrer">https://www.ibkr.com/cn/pricing/commissions-stocks.php?re=amer</a></p><h3 id="盈透美股期权佣金"><a href="#盈透美股期权佣金" class="headerlink" title="盈透美股期权佣金"></a>盈透美股期权佣金</h3><p>美股期权只看到了阶梯式方案的佣金，每笔交易最低1美元。</p><table><thead><tr><th align="left">权利金</th><th align="left">费用</th></tr></thead><tbody><tr><td align="left">&lt; 0.05美元</td><td align="left">0.25美元&#x2F;合约</td></tr><tr><td align="left">≥ 0.05 &amp;&amp; &lt; 0.10美元</td><td align="left">0.50美元&#x2F;合约</td></tr><tr><td align="left">≥ 0.10美元</td><td align="left">0.65美元&#x2F;合约</td></tr></tbody></table><p>详细参考：<a href="https://www.ibkr.com/cn/pricing/commissions-options.php?re=amer" target="_blank" rel="noopener external nofollow noreferrer">https://www.ibkr.com/cn/pricing/commissions-options.php?re=amer</a></p><h3 id="盈透港股股票佣金"><a href="#盈透港股股票佣金" class="headerlink" title="盈透港股股票佣金"></a>盈透港股股票佣金</h3><p><strong>固定式</strong>：交易金额的0.08%，即万八，股票最低18港币，权证、结构性产品最低10港币，无清算费用。<br><strong>阶梯式</strong>：交易金额的0.05%，即万五，股票最低18港币，权证、结构性产品最低12港币，港交所收取清算费用最低2港币。</p><p>详细参考：<a href="https://www.ibkr.com/cn/pricing/commissions-stocks-asia-pacific.php?re=apac" target="_blank" rel="noopener external nofollow noreferrer">https://www.ibkr.com/cn/pricing/commissions-stocks-asia-pacific.php?re=apac</a></p><h3 id="盈透港股期权佣金"><a href="#盈透港股期权佣金" class="headerlink" title="盈透港股期权佣金"></a>盈透港股期权佣金</h3><p>每笔最低佣金18港币。</p><p>详细参考：<a href="https://www.ibkr.com/cn/pricing/commissions-options-asia-pacific.php?re=apac" target="_blank" rel="noopener external nofollow noreferrer">https://www.ibkr.com/cn/pricing/commissions-options-asia-pacific.php?re=apac</a></p><p>注：盈透账户分为Pro版和Lite，以上内容是Pro版佣金。由于Lite版只允许美国和印度居民开户，因此没列出。另外，我会持续更新相关内容的。</p><p><strong>盈透开户优惠：</strong> <a href="https://blog.youya.org/brokers/" target="_blank" rel="noopener external nofollow noreferrer">https://blog.youya.org/brokers/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;虽然股票投资最重要的是低买高卖，但是佣金通常也是大家所考虑的一方面，只要不是高的离谱就行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;盈透开户优惠：&lt;/strong&gt; &lt;a href=&quot;https://blog.youya.org/brokers/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;https://blog.youya.org/brokers/&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Stock" scheme="https://youya.org/tags/stock/"/>
+    
+    <category term="IBKR" scheme="https://youya.org/tags/ibkr/"/>
+    
+    <category term="Option" scheme="https://youya.org/tags/option/"/>
+    
+    <category term="Commissions" scheme="https://youya.org/tags/commissions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再聊港美股开户</title>
+    <link href="https://youya.org/2024/01/13/talk-about-hk-us-market-again/"/>
+    <id>https://youya.org/2024/01/13/talk-about-hk-us-market-again/</id>
+    <published>2024-01-13T13:59:09.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>早在2017年前我就已经开立富途证券了，可以自由交易港美股，后续也开了微牛证券，主要看中的是它能做到美股零佣、港股只收平台使用费。因为三年前的工作变动，我就没再关注过港美股了，但是最近微牛证券毫无任何征兆的情况强行清退大陆用户，让我不得不再找个券商来接收我在微牛证券的持仓。</p><span id="more"></span><p>微牛证券真的太不要脸了，强行清退用户而不给任何正当理由，并且只给留不到一个月时间进行处理持仓。</p><p>微牛证券这家券商最开始还是诚意十足的，开户奖励现金、美股零佣并且入金返手续费、港股只收平台费，在一众内资券商里面算是非常优秀的了。我当时是满仓港美股之后就躺平了，直到最近微牛清退大陆用户时，我美股赔了68%，港股赔了6%，所以我这次开立账户时尽量避开内资券商。</p><p>这次开户，我首选就是外资券商，尽量减少受大陆的政策影响，找了一圈发现还是曾经的那些美股券商，我也很后悔当初没在这些券商开户，部分券商已经不支持大陆用户开户了。</p><p>挑来挑去，最终锁定了第一证券（Firstrade）和盈透证券（Interactive Brokers），前者是交易零佣金，后者是上市大券商支持交易全球市场，经过对比之后我最终选择了盈透证券，后续我也计划把富途的港股持仓慢慢转移到盈透证券。</p><p>盈透证券有个非常大的优势就是入金没有磨损，兑换货币手续费也非常低，后续出金时也会非常方便。当然，内资券商比如富途、老虎等也是出入金零磨损的，如果不在意交易手续费和政策影响，其实完全可以用富途这类券商的，手机、电脑客户端做的是真的很好用。</p><p>还有一个长桥证券（Long Bridge）需要特别说明一下，开户送股票现金卡、转仓还加送京东E卡，很容易就能达到港美股永久「免佣」条件，不过平台费照收，对小散户来说平台费其实是大头。</p><p>长桥证券在2019年底就在推广，我当时安装了App试用了一下，非常简陋，加之我已经有富途和微牛了，长桥相对微牛没任何优势，我就没开长桥。趁着微牛这波清退大陆用户，长桥证券接受了一大批微牛难民，也算是一个不错的选择。</p><p>玩股票其实主要是通过低买高卖赚钱，交易手续费啥的只是附加价值，莫要执着于交易工具和微小的交易成本，有些时候，看似免费的，其实是最贵的。</p><p>长桥开户优惠：<a href="https://blog.youya.org/brokers/" target="_blank" rel="noopener external nofollow noreferrer">https://blog.youya.org/brokers/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;早在2017年前我就已经开立富途证券了，可以自由交易港美股，后续也开了微牛证券，主要看中的是它能做到美股零佣、港股只收平台使用费。因为三年前的工作变动，我就没再关注过港美股了，但是最近微牛证券毫无任何征兆的情况强行清退大陆用户，让我不得不再找个券商来接收我在微牛证券的持仓。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Futu" scheme="https://youya.org/tags/futu/"/>
+    
+    <category term="Stock" scheme="https://youya.org/tags/stock/"/>
+    
+    <category term="Longbridge" scheme="https://youya.org/tags/longbridge/"/>
+    
+    <category term="IBKR" scheme="https://youya.org/tags/ibkr/"/>
+    
+    <category term="Firstrade" scheme="https://youya.org/tags/firstrade/"/>
+    
+    <category term="Webull" scheme="https://youya.org/tags/webull/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>现在社会普通人的出路在哪里？</title>
+    <link href="https://youya.org/2023/12/26/where-is-the-way/"/>
+    <id>https://youya.org/2023/12/26/where-is-the-way/</id>
+    <published>2023-12-26T14:58:09.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>我认为首先，这届年轻人要做的第一件事，就是不要去相信上一代享受了时代红利和收益的人给出的各种人生经验，比如说努力奋斗，好好上班可以致富，未来有无限可能等等，因为你们面临的大环境是截然不同的。</p><span id="more"></span><p>这届年轻人要充分想明白，你们面临的大环境下，劳动力就是贬值的。</p><p>表现在和过去的年轻人相比，同等条件下却找不到同等条件的工作，只能接受待遇更低的工作，或者是工作环境、时间精力要求更高的工作。</p><p>大部分年轻人如今找到的工作，他们所承担的环节，基本都是纯消耗型的内容，消耗了年轻人的时间和精力，却没有任何自我技能方面或者职场竞争力上的提升。</p><p>所以，即使五到十年后，会有新一波经济繁荣期到来，这批年轻人大多数已经三十岁甚至往上，不再年轻，但他们的职场竞争力可能同新的应届毕业生没有太大差别。</p><p>甚至如果有新型产业崛起，新的工作机会也不会落到这批在这个新兴领域毫无积累的年轻人头上。</p><p><strong>除此之外，还有两个建议，是这届年轻人可以仔细考虑并付诸实践的：</strong></p><p><strong>第一个建议是认清现实，积极苟住。</strong></p><p>认清现实说的是不要幻想自己会平稳的上升，不断升职加薪，走上人生巅峰，打工就是打工，不需要有那种「公司是我家」的责任感和荣誉感，你和资本家就是单纯的买卖关系，不要相信「好日子还在后头呢」的画大饼，认真工作，但不要过度工作，锻炼身体，保持一个健康的身心。</p><p>积极苟住，说的是在现行的环境下，如果两年还没考上公或者研，家境一般的就不要再继续挣扎了，赶紧先找一份工作，不要过度消费，做好理财规划，手握存款，存款就是你抵御风险的本钱。</p><p><strong>第二个建议，如果不甘心一辈子就这样了，就要在稳住的同时还要浪一把。</strong></p><p>这个浪，其实是在看不清下一个时代方向时的一种「低成本试错」。</p><p>我刚刚已经说了，这代年轻人，靠上班基本没有什么前途。</p><p>要想把握住下一个时代的方向，只能是在有稳定的大盘下，进行积极的试错。</p><p>我推荐几个思路，可以结合起来完成。</p><p>一个是多读书，读历史读政治读经济读金融，不要看碎片化的公众号文章，去啃大部头，去培养系统性的思维，培养自己那种能在迷雾中看透真相的能力。</p><p>要能清晰的认知这个世界韭菜是如何被收割的，以及如何做能够避免被收割。读完后还要实践和思考，这个的目的是为了让你对时代的脉博和机会有更加敏锐的感知。</p><p>第二个是在一的基础上，你结合自己判断的未来有可能有机会的方向，或者是你认知自己有天赋和才能的方向，去做一些副业。</p><p>注意我说的是副业而不是兼职，副业是事业，事业是随着你时间精力的投入，能够为你带来复利效应的。</p><p>因此，最好的副业就是你能自己掌握生产资料。</p><p>我随便举几个例子：</p><p>比如说如果你笔头比较好，你就好好写文章，认真经营自己的公众号啊知乎什么的，这个就叫副业。但如果你是给其他公众号投稿，或者是给工作室当枪手，这就不叫副业，这叫兼职，因为这个事情除了赚些外快，并没有给你积累粉丝等重要的资源。</p><p>可以多做几个副业，多方向试错。</p><p>但我不建议尝试成本太高的副业，大环境不好的情况下副业也会很卷，成功率也很低，大多数普通人都没有承受高成本创业失败的资本。</p><p>最好是从一些投入低的副业入手，就算做不成功，也能掌握一门技能，以后失业了也还能凭借技能混口饭吃。</p><p><strong>这个就是底线思维。</strong></p><p>以上两个建议，只针对相对来说人际交往能力一般，但学习和思维能力比较强的朋友们。毕竟，这个世界上不同类型的人，有不同方式的生存之道。</p><p>普适性地说说，</p><p>我觉得首先是要踏实下来，摒弃掉一切媒体和文学作品带给你的价值观，从生活出发，好好审视下自己，然后再去思考生活的真相，寻找适合自己的发展道路，真的，这是最重要的一点。</p><p>所有你能接触到的信息，都是在以某种隐藏版的方式给你讲故事。</p><p>这些故事有意无意地隐藏了那些真实事件中的关键点，只讲述最有利于传播的奇闻异事，对这些故事和道理无条件的全盘接受，带来的只有错误的认知。</p><p>那什么叫做从生活出发呢？</p><p>我们换一个视角看自己。</p><p>假设这是一档历史求生节目，你是一个历史人物，生活在二十一世纪这个历史时期，往后看五十年，什么对你来说是最重要的呢？</p><p>我想所有回答你具体细节的人都是骗子，无论他们谈论的是什么终生学习还是人工智能。</p><p>真正的道理很简单，任何时代，没有人能预知未来，我们只能活在当下。</p><p>站在当下，我们只能尽量保证自己是处在正向循环中，明天一定要比今天好。</p><p>一个人掉在大海里，需要做的第一件事，是让自己能够呼吸。</p><p>不管用什么姿势，能浮在海面上，保持正常的呼吸，这一定是当下最重要的事。</p><p>这时候看什么孙杨的游泳视频，没用，远水解不了近渴。</p><p>所以我说，先要认清自己，了解自己的各项情况，包括所处的环境。</p><p>你意识不到你在海里，你还去学别人跑步，你马上就被淹死。</p><p>认清了所处的环境，下一步干嘛呢？</p><p>套路是固定的，你需要了解你生存下去的必要条件，并且列出优先级。</p><p>我很喜欢看一个野外生存节目叫《单挑荒野》，探险者艾德孤身深入荒野，不带任何现代求生工具，只能靠自己活下来。</p><p>他每集一开始都会念叨一句话：接下来我需要解决最重要的东西——水源、居住地、食物和火。</p><p>为什么要念叨，是因为这需要变成一种习惯，即使你意识模糊的时候也能想到，让你有自救的能力。</p><p>那么，对于在现代文明中生活的我们而言，什么是生存要素呢？</p><p>我的观点——金钱、业余时间、技能和冒险精神。</p><p>这四点对比起野外生存而言显得更抽象一些，但这正是文明发展的象征。</p><p>我逐一解释下。</p><p><strong>金钱：支撑生存和发展的必要资源，必须有经济来源。</strong></p><p><strong>业余时间：必须有一定的个人空间和时间来进行思考和规划，用来感知和应付变化，形成正向循环。</strong></p><p><strong>技能：用来进行交换和出卖的实用技能，保持精进和拓展，让自己的经济状况更好。</strong></p><p><strong>冒险精神：用来突破舒适区，探索未知领域，扩大认知、更新自己的思维体系。</strong></p><p>为什么这四项是生存要素？</p><p>因为他们可以帮助你正向滚动下去，形成正反馈。</p><p>你可以好好检视下自己这几项有否缺失，然后针对性的去完善。</p><p>例如说，你特别缺钱，那你应该先什么都不想，给自己挣到能踏实生活半年的物质基础。</p><p>或者，你缺过硬的技能，那就选择自己擅长的领域，认真开始修炼一门。</p><p>同样，工作时间太满，自己完全腾不出时间跟精力来思考自己未来发展方向的工作，工资高也不要选，因为你迟早被透支，还会失去应付变化的能力。</p><p>当然，如果工资特别高除外，短期迅速积累经济也很重要。</p><p>这些在你进入一个新环境之前就最好想清楚。</p><p>认识清楚环境也同样非常重要，因为这可以防止你定出不切实际的目标。</p><p>艾德在节目里经常反省自己的决策，反省的最多的就是自己的盲目扩张和过高目标。</p><p>比如老想着去抓一头大动物而忘记找点小食物，想搭一个大屋子结果发现材料不够。</p><p>或者只过度关注一种资源而忽视其他。</p><p>例如特别着急生火而忘记去寻找食物（做陷阱等）。</p><p>订错目标换来的就是饿肚子、受冷以及其他更危险的后果。</p><p>现代生存也是如此，好高骛远，被蛊惑被鸡血都不是好事，你要意识到生存是件不容易的事，这并不是轻轻松松万事俱备的游戏世界。</p><p>你必须尊重这个世界，尊重的意思即是，了解他的客观性，知道他并不特别针对谁，他有自己的运行逻辑，而如果你随随便便应付生活，生活也会应付你，所以只能认真地去面对每一个出现的问题。</p><p>艾德每次的生存结果都随着环境的变化而不同，有的地方饿得快挂掉，有的地方却还能给自己做一顿烛光晚餐。</p><p>跟环境有关，有时候跟运气也有关。</p><p>所以其实也得意识得到人力是有限的，并不是按着某个道理去做就一定能有如何的结果。</p><p>尽人事听天命，我想这也是健康生存的必要认知吧。</p><p>夜深了，就简单说到这把。。。</p><blockquote><p>这篇文章是转载自〔烟雨江湖见闻录〕在知乎的内容：<a href="https://www.zhihu.com/question/616978474/answer/3244715837" target="_blank" rel="noopener external nofollow noreferrer">https://www.zhihu.com/question/616978474/answer/3244715837</a><br>我是在Twitter上先看到的，感觉不错就备份了一份，因为之前好多收藏夹里的内容再也找不到了。<br>越来越发现好文章真的会因为各种原因从互联网上消失，以后得及时备份过来。</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;我认为首先，这届年轻人要做的第一件事，就是不要去相信上一代享受了时代红利和收益的人给出的各种人生经验，比如说努力奋斗，好好上班可以致富，未来有无限可能等等，因为你们面临的大环境是截然不同的。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="zhuanzai" scheme="https://youya.org/tags/zhuanzai/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A股市场进行基金折溢价套利</title>
+    <link href="https://youya.org/2023/12/23/china-a-share-currency-fund/"/>
+    <id>https://youya.org/2023/12/23/china-a-share-currency-fund/</id>
+    <published>2023-12-23T05:35:15.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>所谓折价或溢价都是相对于净值来说的，折价是指基金价格小于当日净值，溢价是指基金价格大于当日净值。有些场内基金既可以申赎又可以买卖，如果在场内出现大量买单或卖单时，会导致基金价格和净值有所偏差，这就出现折溢价了。还有就是场内封闭式基金，由于无法赎回，因此很多人折价卖出的。</p><span id="more"></span><h2 id="怎样进行折溢价套利"><a href="#怎样进行折溢价套利" class="headerlink" title="怎样进行折溢价套利"></a>怎样进行折溢价套利</h2><ol><li>判断折溢价状态，计算是否有套利空间。</li><li>如果产生折价，就先买入再赎回，这个是稳赚的。</li><li>如果产品溢价，就先申购再卖出，这个申购通常是T+1&#x2F;T+2到账，然后才能卖出，这一两天的时间差可能把溢价抹平导致套利失败。</li></ol><h2 id="折溢价套利注意事项"><a href="#折溢价套利注意事项" class="headerlink" title="折溢价套利注意事项"></a>折溢价套利注意事项</h2><ol><li><p>申赎买卖手续费</p><p> 手续费大家都清楚，就是申购、赎回所需支付的费用或买入、卖出所需支付的佣金，具体费用得咨询券商。</p></li><li><p>申赎到账时间</p><p> 到账时间就是折价时赎回后到账时间和溢价时申购后的到账时间。折价套利时，赎回到账时间太长的话，意味着这段期间资金无法使用，也就损失了无法使用期间的收益；溢价套利时，申购到账时间太长的话容易被市场抹平溢价，从而导致套利失败。溢价套利时如果有底仓的话，相当于把持仓成本降低了。</p></li><li><p>券商</p><p> 有些券商对套利是比较友好的，申赎费用打折或减免，买卖费用比较低等等。</p></li></ol><h2 id="可套利的基金有哪些"><a href="#可套利的基金有哪些" class="headerlink" title="可套利的基金有哪些"></a>可套利的基金有哪些</h2><p>货币基金如银华日利ETF（511880）、华宝添益ETF（511990）。</p><p>封闭基金、华宝油气、QDII基金等。</p><h2 id="场内现金理财"><a href="#场内现金理财" class="headerlink" title="场内现金理财"></a>场内现金理财</h2><p>周一到周四可考虑国债逆回购，尤其是周四或节假日前两天，一天期收益包含周末和节假日，收益比较可观，并且资金第二天可用。</p><p>周五或节假日前一天可以参与场内T+0申赎型货币基金的申购，该类型基金是算头不算尾的，即周末或节假日有收益，但是通常可申购份额比较少，很难申购成功，需要抢。</p><p>场内T+0申赎型货币基金截止2023-09-30日的份额如下：</p><ul><li>519888 添富快线A，规模33.34亿元</li><li>519898 大成现金宝A，规模2.46亿元</li><li>519878 国寿安保A，规模1.84亿元</li><li>519858 广发宝A，规模1.42亿元</li><li>519800 华夏保证金A，规模0.99亿元</li></ul><p>集思录实时数据：<a href="https://www.jisilu.cn/data/repo/" target="_blank" rel="noopener external nofollow noreferrer">https://www.jisilu.cn/data/repo/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;所谓折价或溢价都是相对于净值来说的，折价是指基金价格小于当日净值，溢价是指基金价格大于当日净值。有些场内基金既可以申赎又可以买卖，如果在场内出现大量买单或卖单时，会导致基金价格和净值有所偏差，这就出现折溢价了。还有就是场内封闭式基金，由于无法赎回，因此很多人折价卖出的。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Stock" scheme="https://youya.org/tags/stock/"/>
+    
+    <category term="Fund" scheme="https://youya.org/tags/fund/"/>
+    
+    <category term="ETF" scheme="https://youya.org/tags/etf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python开发快速上手</title>
+    <link href="https://youya.org/2023/04/21/python-quick-start/"/>
+    <id>https://youya.org/2023/04/21/python-quick-start/</id>
+    <published>2023-04-21T11:39:30.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>Python虽然有很多可以吐槽的地方，但是它的流行度及开发速度还是非常友好的，之后有机会或许能用得上。</p><span id="more"></span><h2 id="Python项目初始配置"><a href="#Python项目初始配置" class="headerlink" title="Python项目初始配置"></a>Python项目初始配置</h2><p>使用<code>pyproject.toml</code>来定义项目相信及依赖等。</p><pre><code class="hljs plaintext">[project]name = &quot;python-quick-start&quot;description = &quot;Python Quick Start&quot;requires-python = &quot;&gt;=3.10&quot;license = &quot;MIT&quot;authors = [    &#123; name = &quot;Some Name&quot;, email = &quot;name@example.com&quot; &#125;,]dependencies = [    &quot;request&quot;,][project.optional-dependencies]dev = [  &quot;ruff&quot;,][tool.ruff]line-length = 110</code></pre><p>初始配置：</p><pre><code class="hljs plaintext">python -m venv .venvsource .venv/bin/activate# Install dependenciespip install .# Install optional dependenciespip install .[dev]deactivate</code></pre><h2 id="f-string格式化字符串"><a href="#f-string格式化字符串" class="headerlink" title="f-string格式化字符串"></a>f-string格式化字符串</h2><p>简单的说，<code>f-string</code>可展示变量、计算表达式和调用函数，即：</p><pre><code class="hljs plaintext">f&quot;display &#123;variable&#125;&quot;f&quot;evaluate &#123;expression&#125;&quot;f&quot;call &#123;function&#125;&quot;</code></pre><pre><code class="hljs plaintext">name = &quot;Alice&quot;grade = 6f&quot;&#123;name&#125; is in grade &#123;grade&#125;&quot;</code></pre><p>自定义格式：<code>&#123;content:format&#125;</code></p><h3 id="千位分隔符"><a href="#千位分隔符" class="headerlink" title="千位分隔符"></a>千位分隔符</h3><pre><code class="hljs plaintext">n = 10000000f&quot;&#123;n:,&#125;&quot;    # 10,000,000f&quot;&#123;n:_&#125;&quot;    # 10_000_000</code></pre><h3 id="格式化日期时间"><a href="#格式化日期时间" class="headerlink" title="格式化日期时间"></a>格式化日期时间</h3><pre><code class="hljs plaintext">import datetimenow = datetime.datetime.now()f&quot;&#123;now:%Y-%m-%d %H:%M:%S&#125;&quot;</code></pre><h3 id="整数进制转换"><a href="#整数进制转换" class="headerlink" title="整数进制转换"></a>整数进制转换</h3><pre><code class="hljs plaintext">n = 222f&quot;&#123;n:d&#125;&quot;    # 222f&quot;&#123;n:b&#125;&quot;    # 11011110f&quot;&#123;n:#b&#125;&quot;   # 0b11011110f&quot;&#123;n:o&#125;&quot;    # 336f&quot;&#123;n:#o&#125;&quot;   # 0o336f&quot;&#123;n:x&#125;&quot;    # def&quot;&#123;n:#x&#125;&quot;   # 0xdef&quot;&#123;n:X&#125;&quot;    # DEf&quot;&#123;n:#X&#125;&quot;   # 0XDE</code></pre><h3 id="格式化浮点数"><a href="#格式化浮点数" class="headerlink" title="格式化浮点数"></a>格式化浮点数</h3><pre><code class="hljs plaintext">value = 12.345f&quot;&#123;value:.2f&#125;&quot;      # 12.34，注意5没有进位f&quot;&#123;value:.5f&#125;&quot;      # 12.34500value = 12.3451f&quot;&#123;value:.2f&#125;&quot;      # 12.35，注意5进位了，因为后面还有数字</code></pre><p>使用Decimal做到数学上的四舍五入：</p><pre><code class="hljs plaintext">import decimaldecimal.getcontext().rounding = &quot;ROUND_HALF_UP&quot;value = 12.345result = decimal.Decimal(value).quantize(decimal.Decimal(&quot;0.00&quot;))f&quot;&#123;result&#125;&quot;</code></pre><h3 id="格式化宽度"><a href="#格式化宽度" class="headerlink" title="格式化宽度"></a>格式化宽度</h3><pre><code class="hljs plaintext">for i in range(1, 11):    print(f&#x27;&#123;i:02&#125; &#123;i*i:3&#125; &#123;i*i*i:4&#125;&#x27;)01   1    102   4    803   9   2704  16   6405  25  12506  36  21607  49  34308  64  51209  81  72910 100 1000</code></pre><h3 id="字符串对齐"><a href="#字符串对齐" class="headerlink" title="字符串对齐"></a>字符串对齐</h3><pre><code class="hljs plaintext">&#123;s:[=][&lt;^&gt;][N]&#125;= 表示对齐填充符&lt; 表示左对齐，默认行为^ 表示居中对齐&gt; 表示右对齐N 表示长度，当字符串长度超过N时，原样显示字符串s1 = &quot;1&quot;s2 = &quot;12345&quot;s3 = &quot;123456789&quot;f&quot;&#123;s1:=&lt;5&#125;&quot;     # 1====f&quot;&#123;s2:=&lt;5&#125;&quot;     # 12345f&quot;&#123;s3:=&lt;5&#125;&quot;     # 123456789f&quot;&#123;s1:=&gt;5&#125;&quot;       # ====1f&quot;&#123;s1:=^5&#125;&quot;       # ==1==</code></pre><h2 id="Python内置函数"><a href="#Python内置函数" class="headerlink" title="Python内置函数"></a>Python内置函数</h2><ul><li>abs(x)    返回绝对值</li><li>bin(x)    返回整数的二进制</li><li>bool(x)   返回对或错</li><li>chr(i)    返回整数的字符形式<code>chr(97) is &#39;a&#39;</code></li><li>divmod(a, b)  返回整除和余数<code>divmod(5, 2) is (2, 1)</code></li><li>hex(x)    返回整数的十六进制</li><li>input()   输入</li><li>int(x, base&#x3D;10)   转换成整数，或将非十进制转换成十进制<code>int(&quot;123&quot;) is 123; int(&quot;110&quot;, 2) is 6</code></li><li>isinstance(object, classinfo) 返回True如果object是classinfo的直接、间接、虚拟实例</li><li>issubclass(class, classinfo)</li><li>len(s)    返回<code>s</code>的长度，包括字符串、字节、元组、列表、字典、集合、range</li><li>max(a, b, c)  求最大值，也可以求数组元素最大值</li><li>min(a, b, c)  求最小值，也可以求数组元素最小值</li><li>oct(x)    求十进制和八进制形式</li><li>ord(c)    返回字符的ASCII码<code>ord(&#39;a&#39;) is 97</code></li><li>pow(base, exp) 求base的exp次方</li><li>reversed(s)   反转s</li><li>sorted(s) 排序</li><li>str(x)    将x转成string</li></ul><h2 id="Python字符串操作"><a href="#Python字符串操作" class="headerlink" title="Python字符串操作"></a>Python字符串操作</h2><h3 id="string模块"><a href="#string模块" class="headerlink" title="string模块"></a>string模块</h3><pre><code class="hljs plaintext">import string# abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZstring.ascii_letters# abcdefghijklmnopqrstuvwxyzstring.ascii_lowercase# ABCDEFGHIJKLMNOPQRSTUVWXYZstring.ascii_uppercase# 0123456789string.digits# 0123456789abcdefABCDEFstring.hexdigits# 01234567string.octdigits# !&quot;#$%&amp;&#x27;()*+,-./:;&lt;=&gt;?@[\]^_`&#123;|&#125;~string.punctuation# characters space, tab, linefeed, return, formfeed, and vertical tabstring.whitespace# all of abovestring.printable</code></pre><h3 id="Python字符串函数"><a href="#Python字符串函数" class="headerlink" title="Python字符串函数"></a>Python字符串函数</h3><pre><code class="hljs plaintext">help(str)# 首字母大写，其他部分小写str.capitalize()# 大写变小写，小写变大写str.swapcase()# 是否prefix开头str.startswith(prefix)# 子串出现的次数str.count(substr)# 是否suffix结尾str.endswith(suffix)# 是否包含substr.find(sub)# 是否只包含字母数字str.isalnum()# 是否只包含数字str.isdecimal()     # &#x27;0123&#x27;str.isdigit()       # &#x27;0123&#x27; &#x27;⅔&#x27; &#x27;2²&#x27;str.isnumeric()     # &#x27;0123&#x27; &#x27;⅔&#x27; &#x27;2²&#x27; &#x27;ↁ&#x27;, the last is Roman numerials# 是否只包含字母str.isalpha()# 是否是小写字母，如果没有小写字母就是Falsestr.islower()# 是否是大写字母，如果没有大写字母就是Falsestr.isupper()# 转小写str.lower()# 转大写str.upper()# 去掉空格str.strip()str.lstrip()str.rstrip()# 移除前后相关的字符 abc: all chars a, b or cstr.lstrip(chars)str.rstrip(chars)# 移除前后子串 abc: only the &#x27;abc&#x27; substrstr.removeprefix(substr)str.removesuffix(substr)# 将字符串用spe分割成3部分str.partition(sep)  # &quot;abcdefg&quot;.partition(&quot;d&quot;) = (&quot;abc&quot;, &quot;d&quot;, &quot;efg&quot;)str.rpartition(sep)# 替换子串str.replace(old, new, count=-1)# 查找子串str.find(substr)    # 查不到返回-1str.rfind(substr)str.index(substr)   # 查不到抛出 ValueErrorstr.rindex(substr)# 分割字符串str.split(sep)str.rsplit(sep, maxsplit=-1)</code></pre><h2 id="Python列表函数"><a href="#Python列表函数" class="headerlink" title="Python列表函数"></a>Python列表函数</h2><p>Python list 函数都是原地更新的，即<code>list.reverse()</code>没返回值，而是更新<code>list</code>本身。</p><pre><code class="hljs plaintext">help(list)# 添加元素到列表最后list.append(object)# 返回浅拷贝list.copy()# 返回元素出现的次数list.count(value)# 扩展列表list.extend(iterable)# 返回元素第一次出现的位置list.index(value, start=0, stop=9223372036854775807)# 在某位置前插入元素list.insert(index, object)# 删除某位置的元素，空列表或超出列表长度时返回ValueErrorlist.pop(index)# 删除第一次出现的valuelist.remove(value)# 反转列表list.reverse()# 列表排序list.sort(reverse=False)</code></pre><h2 id="Python字典"><a href="#Python字典" class="headerlink" title="Python字典"></a>Python字典</h2><pre><code class="hljs plaintext">help(dict)# 浅拷贝dict.copy()# 返回key的值dict.get(key, default=None)# 返回字典键值列表dict.items() # &#123;1: 2, 3: 4&#125; =&gt; dict_items([(1, 2), (3, 4)])# 返回键列表dict.keys() # &#123;1: 2, 3: 4&#125; =&gt; dict_keys([1, 3])# 返回键列表dict.values() # &#123;1: 2, 3: 4&#125; =&gt; dict_values([2, 4])# 删除key并返回value，若key不存在则返回default，否则KeyErrordict.pop(key[,default])# 删除键值并返回dict.popitems() # 返回 (key, value)</code></pre><h2 id="Python-控制语句"><a href="#Python-控制语句" class="headerlink" title="Python 控制语句"></a>Python 控制语句</h2><h2 id="If-条件语句"><a href="#If-条件语句" class="headerlink" title="If 条件语句"></a>If 条件语句</h2><pre><code class="hljs plaintext">if x &lt; 0:    print(&quot;small&quot;)elif x == 0:    print(&quot;big&quot;)else:    print(&quot;medium&quot;)</code></pre><h3 id="For-循环"><a href="#For-循环" class="headerlink" title="For 循环"></a>For 循环</h3><pre><code class="hljs plaintext">words = [&quot;one&quot;, &quot;two&quot;, &quot;three&quot;]for word in words:    print(word)...onetwothree=================================words = [&quot;one&quot;, &quot;two&quot;, &quot;three&quot;]for i in range(len(words)):    print(i, word[i])...0 one1 two2 three</code></pre><pre><code class="hljs plaintext">for i in range(5):    print(i)...01234=================================for i in range(2, 5):    print(i)...234=================================for i in range(0, 10, 3):    print(i)...0369</code></pre><h3 id="While-循环"><a href="#While-循环" class="headerlink" title="While 循环"></a>While 循环</h3><pre><code class="hljs plaintext">a, b = 0, 1while a &lt; 10:    a, b = b, a+b    print(b)</code></pre><h3 id="Match语句"><a href="#Match语句" class="headerlink" title="Match语句"></a>Match语句</h3><pre><code class="hljs plaintext">status = http_statusmatch status:    case 200:        return &quot;OK&quot;    case 400:        return &quot;Bad Request&quot;    case 500:        return &quot;Internal Error&quot;</code></pre><h2 id="Pipenv"><a href="#Pipenv" class="headerlink" title="Pipenv"></a>Pipenv</h2><p>Pipenv 算是 Python 官方的工具了，主要参考了 npm 的功能，我觉得思路挺不错的。</p><p>目前Pipenv的开发进度比较慢，并且和<code>pyproject.toml</code>也有点冲突，另外就是速度太慢了，暂时不太建议在项目中使用。</p><h3 id="安装-Pipenv"><a href="#安装-Pipenv" class="headerlink" title="安装 Pipenv"></a>安装 Pipenv</h3><pre><code class="hljs plaintext">sudo pip install pipenvsudo apt install pipenv</code></pre><h3 id="开始一个新项目"><a href="#开始一个新项目" class="headerlink" title="开始一个新项目"></a>开始一个新项目</h3><pre><code class="hljs plaintext">mkdir python-quick-startcd python-quick-startmkdir .venv # implicitly set virtualenv locationpipenv shellpipenv install pycodestyle black --dev</code></pre><h3 id="Pipfile-添加脚本"><a href="#Pipfile-添加脚本" class="headerlink" title="Pipfile 添加脚本"></a>Pipfile 添加脚本</h3><pre><code class="hljs plaintext">[scripts]lint = &quot;pycodestyle .&quot;code-diff = &quot;black --diff .&quot;code-format = &quot;black .&quot;main = &quot;./main.py&quot;</code></pre><h3 id="执行命令"><a href="#执行命令" class="headerlink" title="执行命令"></a>执行命令</h3><pre><code class="hljs plaintext">pipenv run lintpipenv run code-diffpipenv run code-formatpipenv run main</code></pre><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul><li><a href="https://github.com/chenzhiwei/python-quick-start" target="_blank" rel="noopener external nofollow noreferrer">https://github.com/chenzhiwei/python-quick-start</a></li><li><a href="https://docs.python.org/3/library/stdtypes.html" target="_blank" rel="noopener external nofollow noreferrer">https://docs.python.org/3/library/stdtypes.html</a></li><li><a href="https://docs.python.org/3/library/functions.html" target="_blank" rel="noopener external nofollow noreferrer">https://docs.python.org/3/library/functions.html</a></li><li><a href="https://docs.python.org/3/tutorial/controlflow.html" target="_blank" rel="noopener external nofollow noreferrer">https://docs.python.org/3/tutorial/controlflow.html</a></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Python虽然有很多可以吐槽的地方，但是它的流行度及开发速度还是非常友好的，之后有机会或许能用得上。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="python" scheme="https://youya.org/tags/python/"/>
+    
+    <category term="dev" scheme="https://youya.org/tags/dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>闲言碎语-2022</title>
+    <link href="https://youya.org/2022/12/31/timeline/"/>
+    <id>https://youya.org/2022/12/31/timeline/</id>
+    <published>2022-12-31T16:01:01.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>这或许是最后一次从Telegram更新闲言碎语了，以后会放在我自建的 <a href="https://social.youya.org/@zhiwei" target="_blank" rel="noopener external nofollow noreferrer">ActivityPub</a> 实例上面。自己的数据还是得掌握在自己手中，看似非常可靠的平台，在若干年后可能就不复存在了。</p><span id="more"></span><p>最近两年迷恋上看动漫了，甚至很多以前看都不看的渣画质的上个世纪风格的2D动漫我都开始看了。这个得改改了，全是一样的套路，要么转世重生、要么身体里有强者指点、要么获得了牛逼的宝贝，全是这种废物逆袭套路，看一集就能知道后续剧情的动漫。真的不能再浪费时间在这上面了，挑些比较有影响力的动漫看看还不错。毕竟动漫不会因为换演员而导致后续剧集变垃圾。</p><p>这两天安装并使用 Kubuntu，感觉 KDE 也是个非常不错的选择，基本上每个地方都能定制化，挺喜欢的。先在 Deepin 里使用一段时间 Konsole，如果比较理想的话，我会考虑从 Deepin 切换到 Kubuntu。</p><p>最近玩股票的热情明显降低了，之前买的垃圾股票正在慢慢的解套，唉，买股票就是为了解套。。。</p><p>经历一个月的封控，今天终于解封可以出小区了，楼下很多人，年前估计是无法到公司上班了。</p><p>这两天把家里网线换了，路由器换了，现在千兆速度终于体现出来了，接下来入手个软路由，就齐活了。</p><p>开年不利，证券账户上的钱一个月少了很多很多。。。</p><p>去年一年也一直在亏损，但是今年开年亏的实在太多了。</p><p>这两天断断续续的研究，终于把clash tun代理模式搞明白了。</p><p>宽基：中国A50ETF，沪深300ETF，中证500ETF，恒生ETF<br>行业：新能源ETF，芯片ETF，游戏ETF，家电ETF，证券ETF，中概互联网ETF</p><p>火币是真狠，好吧，我把我的比特币转走了，以后真心得好好考虑一下国内平台的风险了，尽量不依赖平台。万事都要自主可控。</p><p>最近自建了个 smtp server，顺便把邮件协议给好好学习了一下，接下来就是测试验证各邮件厂商是否将邮件标记成垃圾邮件了。</p><p>刚刚看到一篇文章，呼吁大家重新捡起 Linux 管理，目前各家云厂商都在搞 SaaS 平台，慢慢的大家都依赖 SaaS 平台了，很多东西不自己搭建了，然后随之而来的就是缺乏 Linux 管理知识和动手能力。而我最近也在思考不将自己绑定到某个平台上，入口掌握在自己手里，而这就需要 Linux 系统管理知识。<a href="https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration" target="_blank" rel="noopener external nofollow noreferrer">https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration</a></p><p>百度这家公司真的是无可救药了，最开始不支持Gmail，现在直接只支持国内几家主流邮箱域名。没想到它已经堕落到这种地步了，我目前还在用的百度服务就是百度网盘和百度地图了，如果有更好的替代我就会转走。</p><p>目前手里还有五个域名，每年续费成本大概300元吧，域名持有时长平均下来都超过十年了，有点犹豫到底是否还有必要继续持有了。纠结。。。</p><p>曾经非常喜欢漫威的电影，现在却提不起兴趣。网上数以万计的人不停的讲解、分析剧情，这让我一点看下去的兴趣都没有了，另外就是有点审美疲劳了。</p><p>上证3000点了，开启定投躺平模式！</p><p>虽然小米的产品有很多让人不爽的地方，但是作为坚定看好小米的股东，<del>我还是买了红米K50</del>（取消预订了），配置真的是太香了。</p><p>本来想买个米家理发器用来刮胡子的，然后看了视频博主的开箱，我感觉以后自己理发也行。最近别人沟通发现，很多人都是自己理发的，不去理发店。</p><p>最近一年不太在状态，也不知道是咋回事，啥都不想做，就想躺平，好不容易有件想做的事，却又很心急的，就想马上把事情做完，做完后又回到想躺平的状态了。</p><p>今天出去骑车了，以后得把这个爱好拾出来，经常出去骑骑车。</p><p>黑人牙膏改名了，难道海外“政治正确”的妖风要刮到中国了吗？</p><p>调整心态，真的挺难的，也许过几年回头看现在会变得轻松很多吧。</p><p>今天又把且慢管家开启了，自动交易省心。</p><p>原本想使用白嫖的Oracle Cloud instance来替换掉我使用五六年的搬瓦工VPS，奈何Oracle Cloud把邮件出口（25端口）给屏蔽了。看来我还是得继续付费使用搬瓦工VPS了，然后就把操作系统从CentOS 7换成了Ubuntu 22.04，把上面的服务给重建了一下，折腾了俩小时。</p><p>刚刚发现我这15年在域名上花费了太多钱了，现在手里5个域名其实都没啥用，是时候舍弃几个了。有俩是2008年注册的，一直保留到现在，真有点不舍，但是仔细想想留着也没啥用。</p><p>1999元的K50已经下单了，首发2399元，不到半年时间。</p><p>给娃买的儿童节礼物：一大堆异形魔方。</p><p>K50 已经用上了，手机太大了，还是 K20 Pro 更适合我。</p><p>微信上500多好友，很多人几年没联系过，以前总觉得删除挺可惜的，今天狠心删除了一些，留着也是僵尸。</p><p>刚刚我六岁儿子突然问我电视上的死字为何用S代替，审查真的会影响到下一代。</p><p>什么是降维打击：如果一个人和你聊天，你觉得特别舒服，那并不意味着他是你的知己，很有可能他只是在向下兼容你。因为他的情商和知识含量都远远超过你，所以你抛出的梗，他都能接住。他说的每一句话，都能说到你的心坎里。很扎心的是，这可能只是因为他很优秀，而不是因为你们很合拍。</p><p>摩托车D照终于全考试完了，从面签到考完花了十天时间，周四去领取新驾照。</p><p>2022年已经过去一半了，我在这半年貌似没啥值得纪念的，股票还是很惨，换了个红米K50手机，考了个摩托车D驾照，工作依然是老样子，还有就是媳妇怀孕了，其他还真想不出有啥值得说的了。</p><p>使用了八年的双卡双待，终于在给孩子买电话手表之后变成了单卡单待。</p><p>Wayland 任重道远啊，问题不少。</p><p>HTTPS加密原理：用到了非对称加密和对称加密。</p><p>非对称加密就是指加密和解密的密钥不一样，比如TLS证书就是非对称加密，公钥加密私钥解密或私钥加密公钥解密，非对称加密效率差比较耗时。</p><p>对称加密就是加密和解密用的同一个密钥，性能比较好。但是需要把唯一的密钥告诉对方，这个不太安全。</p><p>而 HTTPS 建立连接过程是：</p><ol><li>浏览器向网站服务器发出请求并获得服务器的公钥。</li><li>浏览器随机生成用于对称加密的密钥，使用公钥加密后传给服务器。</li><li>服务器用私钥解密并获得对称加密的密钥。</li><li>服务器用对称加密的密钥加密网页内容，浏览器用该密钥解密。</li></ol><p>另外就是用于对称加密的密钥并不是每次建立连接时都生成一次，服务器会维护一个Session ID，在TLS握手阶段传给浏览器，浏览器在生成对称加密的密钥后传给服务器，服务器将其放入到Session ID下，接下来浏览器每次请求都会带上Session ID，而服务器会根据Session ID找到对应密钥进行加密。</p><p>娃的暑假新成就，学会游泳！</p><p>时隔骑行川藏线十年后，我准备重新拾起我曾经的爱好了，改变一下当前颓废的生活状态。</p><p>今天挑战分水岭，在距离山顶还有30公里的地方停止了，感觉我身体到极限了。回程一路酷热难耐，夏天真不是骑车的好季节，阴天或晚上骑车应该不错。</p><p>国内的互联网产品和服务真的是没法用了，动不动就让绑定手机，以前注册的邮箱现在不绑定手机直接不让登录了。以后能少用就少用国内的产品和服务，真的有点过分了。</p><p>挺怀念以前的网络聊天室的，大家想聊什么就聊什么，从最开始的网易聊天室，到QQ聊天室，再到后来的Meebo，现在想找个这样的聊天室却找不到了。</p><p>刚刚换个东家，卫生间标准终于赶上十年前第一份工作时的标准了。</p><p>之前加了两三个微信骑行群，原本想着参加他们组织的骑行活动呢，结果看他们发的消息，清一色的公路车，个个骑的飞快，压根跟不上啊，索性退群，还是一个人骑着玩吧。</p><p>人生第一次周六上班，正常的周六上班，以后每月都会有个周六上班。</p><p>现在聊天想完全避免政治话题真的太难了。。。</p><p>底层人互相踩压，上层人互相抬轿。</p><p>以后看到好的文章得及时备份，不然说没就没了。</p><p>If my only tool is a hammer, every problem will start resembling a nail.</p><p>如果我只有一个锤子，那么所有问题都会变得像钉子。</p><p>第一次被容器技术坑了，我电脑一直是 Windows + Linux 双系统，在 Linux 下使用容器方式安装 Ceph，结果把我的 Windows 分区给搞坏了。。。最终不得已重装了 Windows 系统。以后还是得少给容器超级权限，这个真的是太危险了。</p><p>忙活了大半天，把 Windows 系统里的东西恢复了，又在 WSL 下搞了个 Kind Kubernetes 离线集群，以后做测试验证就方便多了。感觉还是对 CSI 了解不够多，行为和我预想的不一样，得继续学习、验证。</p><p>从搬瓦工迁移到免费的 Oracle Cloud 了，每年可以省下 200 多元，希望免费的机器能给力一些。</p><p>黑暗时代正式开始，希望来一场猛烈的暴风雨，不破不立。（三届连任）</p><p>感觉最近的投资又回到了2018年那个时候，跌的不像样了。我当时一直在定投，因为金额小无所谓。现在有点坚持不住的感觉了，转到证券账户里一些钱，很快就用完了。</p><p>政治新闻看多了，导致心情非常不好，都影响到生活了。</p><p>投资这事真的需要长期坚持，来来回回就那么多东西，赔钱就坚持，赚钱考虑卖出。</p><p>儿女双全了，希望生活越来越美好！</p><p>Golang 和 Python 平时使用完全够了。</p><p>最近两天研究了一下 Mastodon 和 ActivityPub，这个做微博客真的太合适了，随时随地说上一两句话，挺能记录生活的。以后我应该会主要做自建的 ActivityPub 站点了，欢迎关注：@<a href="mailto:&#122;&#104;&#x69;&#119;&#x65;&#x69;&#64;&#x79;&#111;&#117;&#x79;&#x61;&#46;&#x6f;&#x72;&#x67;">&#122;&#104;&#x69;&#119;&#x65;&#x69;&#64;&#x79;&#111;&#117;&#x79;&#x61;&#46;&#x6f;&#x72;&#x67;</a>  <a href="https://social.youya.org/@zhiwei" target="_blank" rel="noopener external nofollow noreferrer">https://social.youya.org/@zhiwei</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这或许是最后一次从Telegram更新闲言碎语了，以后会放在我自建的 &lt;a href=&quot;https://social.youya.org/@zhiwei&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;ActivityPub&lt;/a&gt; 实例上面。自己的数据还是得掌握在自己手中，看似非常可靠的平台，在若干年后可能就不复存在了。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Timeline" scheme="https://youya.org/tags/timeline/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes CSI 存储端到端多租户隔离</title>
+    <link href="https://youya.org/2022/10/23/kubernetes-csi-storage-e2e-multi-tenant/"/>
+    <id>https://youya.org/2022/10/23/kubernetes-csi-storage-e2e-multi-tenant/</id>
+    <published>2022-10-23T09:23:12.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>Kubernetes 里对一些资源的引用限制是比较弱的，比如 Pod 里可以使用 Secret 与 ConfigMap、PVC 里可以使用 StorageClass。想对这种情况进行限制，必须通过额外的手段来做。</p><span id="more"></span><p>在 Kubernetes 中，CSI 存储的端到端多租户如下所示，除了存储侧多租户之外，Kubernetes 侧也需要多租户来对应着存储侧的多租户，这样才能保证端到端的多租户功能。</p><p><img src="/static/k8s-csi-e2e-multi-tenant.drawio.svg" alt="k8s-tenant"></p><p>理想状态下，存储侧的租户 S1&#x2F;S2 分别与 Kubernetes 侧的 K1&#x2F;K2 租户对应，K1 租户不能使用 S2 中的存储资源，但是 Kubernetes Dynamic PV Provisioning 中所使用的 StorageClass 却可以被任意 Namespace 里的资源使用，这个就导致了整个端到端多租户并不完整。</p><p>要解决 Kubernetes 侧租户之间的隔离问题，可以使用 Kubernetes 的 RBAC 权限控制与 Validating Webhook。</p><p>首先创建一个 ClusterRole 来定义 Verb 为 <code>use</code>，Object 为 StorageClass 名字：</p><pre><code class="hljs plaintext">apiVersion: rbac.authorization.k8s.io/v1kind: ClusterRolemetadata:  name: use-storageclass-sc1rules:  - apiGroups: [&quot;storage.k8s.io&quot;]    resources: [&quot;storageclasses&quot;]    resourceNames: [&quot;sc1&quot;]    verbs: [&quot;use&quot;]</code></pre><p>其次在租户 Namespace 里创建 RoleBinding，来定义允许该 Namespace 使用这个 StorageClass：</p><pre><code class="hljs plaintext">apiVersion: rbac.authorization.k8s.io/v1kind: RoleBindingmetadata:  name: use-storageclass-sc1  namespace: ns1subjects:  - kind: Group    name: system:serviceaccounts:ns1    apiGroup: rbac.authorization.k8s.ioroleRef:  kind: ClusterRole  name: use-storageclass-sc1  apiGroup: rbac.authorization.k8s.io</code></pre><p>最后 PVC Validating Webhook 根据 PVC 信息构造 SAR 并向 Kubernetes 查询权限并返回结果：</p><pre><code class="hljs plaintext">apiVersion: authorization.k8s.io/v1kind: SubjectAccessReviewspec:  groups:    - system:serviceaccounts:ns1  resourceAttributes:    group: storage.k8s.io    resource: storageclasses    name: sc1    namespace: ns1    verb: use</code></pre><p><img src="/static/k8s-rbac-with-webhook.drawio.svg" alt="k8s-rbac"></p><p>具体代码实现可参考：<a href="https://github.com/chenzhiwei/k8s-storage-webhook" target="_blank" rel="noopener external nofollow noreferrer">https://github.com/chenzhiwei/k8s-storage-webhook</a></p><p>使用Kubernetes原生RBAC这种方式反而是比较麻烦的，其实也可以自己定义一个规则，将规则放进ConfigMap里挂载到Webhook Pod中，Webhook直接读取并做相应判断更简单一些。比如：</p><pre><code class="hljs plaintext">apiVersion: v1kind: ConfigMapmetadata:  name: storageclass-rulesdata:  rules.json: |    &#123;      &quot;sc1&quot;: [&quot;ns1&quot;, &quot;ns2&quot;, &quot;ns3&quot;],      &quot;sc2&quot;: [&quot;ns4&quot;, &quot;ns5&quot;]    &#125;</code></pre><p>更新：Kubernetes v1.26 版本中添加了 Validating Admission Policy 功能，可以实现该功能，相对简单一些。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Kubernetes 里对一些资源的引用限制是比较弱的，比如 Pod 里可以使用 Secret 与 ConfigMap、PVC 里可以使用 StorageClass。想对这种情况进行限制，必须通过额外的手段来做。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="kubernetes" scheme="https://youya.org/tags/kubernetes/"/>
+    
+    <category term="rbac" scheme="https://youya.org/tags/rbac/"/>
+    
+    <category term="csi" scheme="https://youya.org/tags/csi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes 权限控制</title>
+    <link href="https://youya.org/2022/10/22/kubernetes-access-control/"/>
+    <id>https://youya.org/2022/10/22/kubernetes-access-control/</id>
+    <published>2022-10-22T15:13:40.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>权限控制离不开用户管理系统、认证和授权，下面就简单讲一下这三个概念。</p><p>用户管理系统，一般存放着用户的相关信息，最主要的有用户名、用户密码和用户组。</p><p>认证（Authentication, AuthN）主要是验证用户的合法性，比如用户名和密码正确即认证成功。</p><p>授权（Authorization, AuthZ）主要是验证用户是否有权限来做某事，通常可以给单个用户某些权限，也可以给用户组某些权限，在该用户组里的用户会继承这些权限。</p><p>Kubernetes 里的权限控制有三种方式，分别是 RBAC, ABAC, Webhook。</p><span id="more"></span><h2 id="RBAC-Role-Based-Access-Control"><a href="#RBAC-Role-Based-Access-Control" class="headerlink" title="RBAC - Role Based Access Control"></a>RBAC - Role Based Access Control</h2><p>RBAC 权限控制是 Kubernetes 主推的方式，RBAC 本身也是使用比较广泛的。</p><p>在 Kubernetes 中，RBAC 三要素： Can <strong>主体subject</strong> <strong>动词verb</strong> <strong>目标object</strong> ?</p><p>比如：Can Alice create pod?</p><p>Subject 分为 User、Group、ServiceAccount，其中：</p><ul><li>User 为用户，Kubernetes 对用户格式没要求，字符串都可以，比如 <code>Alice</code> 就是一个用户。</li><li>Group 为组，可以是用户组，也可以是 ServiceAccount 组。</li><li>ServiceAccount 为服务账户，比如用户创建的 Pod 里运行的程序再调用 Kubernetes API 创建资源时所使用的账户就叫 ServiceAccount。</li></ul><p>Kubernetes 预留了<code>system:</code>开头的组作为特殊用途，有以下几类：</p><ul><li>system:serviceaccounts 代表系统里的所有 ServiceAccount</li><li>system:serviceaccounts:ns1 代表 ns1 namesapce 下的所有 ServiceAccount</li><li>system:autenticated 代表所有已登录用户</li><li>system:unauthenticated 代表所有未登录用户</li></ul><p>Verb 内置的主要有 create、get、list、watch、update、patch、delete，用户还可以自定义各种动词，比如 eat、wear、live、use等。</p><p>Object 就是 Kubernetes 资源，包含内置的资源，比如 Deployment、Service、Pod 等，和自定义的资源。</p><p>Subject、Verb、Object 是通过 Role&#x2F;Rolebinding 来组织到一起进行工作的。</p><h3 id="Role-ClusterRole"><a href="#Role-ClusterRole" class="headerlink" title="Role&#x2F;ClusterRole"></a>Role&#x2F;ClusterRole</h3><p>Role&#x2F;ClusterRole 中定义了 Verb 和 Object，意思为能做什么，比如 创建 Pod、查看 Service 等。</p><p>Role 必须定义在某个 namespace 里面并且所操作的资源必须是 namespace 级别的，ClusterRole 既可以定义集群级别的资源也可以定义 Namespace 级别的资源。</p><p>Role 只能被 Rolebinding 所绑定，ClusterRole 既可以被 Rolebinding 绑定又可以被 ClusterRoleBinding 绑定。</p><p>当 ClusterRole 被 RoleBinding 绑定时表示某个主体（Subject）可以在某个 namespace 里做什么，比如 Alice 可以在 ns1 namespace 里创建 Pod。</p><p>当 ClusterRole 被 ClusterRoleBinding 绑定时表示某个主体（Subject）可以在整个集群中里做什么，比如 Alice 可以在任意 namespace 里创建 Pod。</p><p>Role 示例，可以在 ns1 里创建 Pod：</p><pre><code class="hljs plaintext">apiVersion: rbac.authorization.k8s.io/v1kind: Rolemetadata:  name: create-pod  namespace: ns1rules:  - apiGroups: [&quot;v1&quot;]    resources: [&quot;pods&quot;]    verbs: [&quot;create&quot;]</code></pre><p>ClusterRole 示例，可以在所有 namespace 里创建 Pod 和创建集群资源 PersistenVolume：</p><pre><code class="hljs plaintext">apiVersion: rbac.authorization.k8s.io/v1kind: ClusterRolemetadata:  name: create-podrules:  - apiGroups: [&quot;v1&quot;]    resources: [&quot;pods&quot;, &quot;persistentvolumes&quot;]    verbs: [&quot;create&quot;]</code></pre><h3 id="Rolebinding-ClusterRoleBinding"><a href="#Rolebinding-ClusterRoleBinding" class="headerlink" title="Rolebinding&#x2F;ClusterRoleBinding"></a>Rolebinding&#x2F;ClusterRoleBinding</h3><p>Rolebinding&#x2F;ClusterRoleBinding 就是将 Subject 与 Verb 和 Object 绑定到一起，作用是指定<strong>谁</strong>能做什么。</p><p>RoleBinding 示例，Alice 可以在 ns1 里创建 Pod：</p><pre><code class="hljs plaintext">apiVersion: rbac.authorization.k8s.io/v1kind: RoleBindingmetadata:  name: alice-create-pod  namespace: ns1subjects:  - kind: User    name: Alice    apiGroup: rbac.authorization.k8s.ioroleRef:  kind: Role  name: create-pod  apiGroup: rbac.authorization.k8s.io</code></pre><p>ClusterRoleBinding 示例，Alice 可以在任意 namespace 里创建 Pod 和集群资源 PersistentVolume：</p><pre><code class="hljs plaintext">apiVersion: rbac.authorization.k8s.io/v1kind: ClusterRoleBindingmetadata:  name: alice-create-podsubjects:  - kind: User    name: Alice    apiGroup: rbac.authorization.k8s.ioroleRef:  kind: ClusterRole  name: create-pod  apiGroup: rbac.authorization.k8s.io</code></pre><h2 id="ABAC-Attribute-Based-Access-Control"><a href="#ABAC-Attribute-Based-Access-Control" class="headerlink" title="ABAC - Attribute Based Access Control"></a>ABAC - Attribute Based Access Control</h2><p>ABAC 是通过将属性组合在一起的策略来授予用户权限，需要在 Kuberentes Apiserver 启动时指定一个静态的策略文件，使用起来不够灵活并且目录处于 Beta 状态，近几年几乎没什么改动，用户比较少。</p><p>下面就是一个示例，表示 Alice 可以在 namespace ns1 里管理 Pod：</p><pre><code class="hljs plaintext">&#123;&quot;apiVersion&quot;: &quot;abac.authorization.kubernetes.io/v1beta1&quot;, &quot;kind&quot;: &quot;Policy&quot;, &quot;spec&quot;: &#123;&quot;user&quot;: &quot;alice&quot;, &quot;namespace&quot;: &quot;ns1&quot;, &quot;resource&quot;: &quot;pods&quot;, &quot;apiGroup&quot;: &quot;v1&quot;&#125;&#125;</code></pre><p>Namespace ns1 里的 ServiceAccount sa1 可以管理 Pod：</p><pre><code class="hljs plaintext">&#123;&quot;apiVersion&quot;: &quot;abac.authorization.kubernetes.io/v1beta1&quot;, &quot;kind&quot;: &quot;Policy&quot;, &quot;spec&quot;: &#123;&quot;user&quot;: &quot;system:serviceaccount:ns1:sa1&quot;, &quot;namespace&quot;: &quot;ns1&quot;, &quot;resource&quot;: &quot;pods&quot;, &quot;apiGroup&quot;: &quot;v1&quot;&#125;&#125;</code></pre><h2 id="Webhook"><a href="#Webhook" class="headerlink" title="Webhook"></a>Webhook</h2><p>Webhook 是将授权放到外部一个服务上去，每当某个用户要对 Kubernetes 进行操作时，都先去外部服务上问一下是否有权限，只有有权限时才允许操作。</p><h2 id="RBAC-模式下系统内置的-ClusterRole"><a href="#RBAC-模式下系统内置的-ClusterRole" class="headerlink" title="RBAC 模式下系统内置的 ClusterRole"></a>RBAC 模式下系统内置的 ClusterRole</h2><p>Kubernetes 系统会内置一系列 ClusterRole 供用户和其自己核心组件使用，下面主要说一下面向用户的 ClusterRole。</p><ul><li>cluster-admin 即集群管理员，可以用 ClusterRoleBinding 将其绑定给某个用户，表示这个用户为可以在集群中做任何事情。</li><li>admin 即管理员，可以用某个 Namespace 里的 RoleBinding 将其绑定给某个用户，表示该用户是该 Namespace 的管理员。</li><li>edit 即编辑，可以用某个 Namespace 里的 RoleBinding 将其绑定给某个用户，表示该用户是该 Namespace 的编辑。</li><li>view 即查阅者，可以用某个 Namespace 里的 RoleBinding 将其绑定给某个用户，表示该用户是该 Namespace 的查阅者。</li></ul><p>通常如果 Kubernetes 集群里只使用其核心资源的话，以上权限足够了，但是想要使用自定义资源并且更细粒度的控制权限，就需要用到 Aggregated ClusterRole 了。</p><h2 id="Aggregated-ClusterRole"><a href="#Aggregated-ClusterRole" class="headerlink" title="Aggregated ClusterRole"></a>Aggregated ClusterRole</h2><p>用户可以创建一个 Aggregated ClusterRole 并指定 Label Selector，当这个 Aggregated ClusterRole 被绑定到某个用户时，那么该用户也会拥有这个 Label 的其他 ClusterRole 权限。</p><h2 id="自定义-Verb-和-Object"><a href="#自定义-Verb-和-Object" class="headerlink" title="自定义 Verb 和 Object"></a>自定义 Verb 和 Object</h2><p>除了内置的 Verb 和 Object 之外，用户还可以自定义 Verb 与 Object 并实现自己的逻辑，比如：Can Alice Ride Bike。</p><p>后续写 Kubernetes CSI 存储端到端的多租户时会详细说明一下。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;权限控制离不开用户管理系统、认证和授权，下面就简单讲一下这三个概念。&lt;/p&gt;
+&lt;p&gt;用户管理系统，一般存放着用户的相关信息，最主要的有用户名、用户密码和用户组。&lt;/p&gt;
+&lt;p&gt;认证（Authentication, AuthN）主要是验证用户的合法性，比如用户名和密码正确即认证成功。&lt;/p&gt;
+&lt;p&gt;授权（Authorization, AuthZ）主要是验证用户是否有权限来做某事，通常可以给单个用户某些权限，也可以给用户组某些权限，在该用户组里的用户会继承这些权限。&lt;/p&gt;
+&lt;p&gt;Kubernetes 里的权限控制有三种方式，分别是 RBAC, ABAC, Webhook。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="kubernetes" scheme="https://youya.org/tags/kubernetes/"/>
+    
+    <category term="rbac" scheme="https://youya.org/tags/rbac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes 认证系统</title>
+    <link href="https://youya.org/2022/10/16/kubernetes-authn/"/>
+    <id>https://youya.org/2022/10/16/kubernetes-authn/</id>
+    <published>2022-10-16T13:03:31.000Z</published>
+    <updated>2024-03-13T15:21:10.381Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前做 Kubernetes 平台时研究过 Kubernetes Authentication，并且写了个 PoC 项目 Taishan，包含一个用户管理系统 taishan-keystone，一个 OIDC 的 Web&#x2F;CLI 客户端。</p><span id="more"></span><p>代码在我的 GitHub 私有仓库，暂时先不放出来了，把流程图放这里，有时间了再补充一下内容。</p><p><img src="/static/k8s-authn-flow.png" alt="authn"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;之前做 Kubernetes 平台时研究过 Kubernetes Authentication，并且写了个 PoC 项目 Taishan，包含一个用户管理系统 taishan-keystone，一个 OIDC 的 Web&amp;#x2F;CLI 客户端。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="kubernetes" scheme="https://youya.org/tags/kubernetes/"/>
+    
+    <category term="authn" scheme="https://youya.org/tags/authn/"/>
+    
+  </entry>
+  
+</feed>
